@@ -24,7 +24,7 @@ $ apt install python2
 
 $ apt install git
 
-$ git clone https://github.com/Aahi420/tiger/fbwV2.git
+$ git clone https://github.com/Aahi420/tiger
 
 $ pip2 install requests mechanize
 
