@@ -42,7 +42,7 @@ $ cd fbwV2 && python2 tiger.py
 >>>TO USE LAZY SCRIPT
 
 
-$ cd fbwV2 && python2 fbwLazy.py
+$ cd tiger && python2 fbwLazy.py
 
 
 
