@@ -33,7 +33,7 @@ $ pip2 install requests mechanize
 >>>TO USE FAST SCRIPT
 
 
-$ cd fbwV2 && python2 fbwFast.py
+$ cd fbwV2 && python2 tiger.py
 
 
 
